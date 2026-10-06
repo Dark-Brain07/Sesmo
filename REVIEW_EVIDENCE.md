@@ -38,4 +38,4 @@ Calls sent zero GEN application value. The stable RPC's zero `eth_gasPrice` and 
 
 ## GitHub target
 
-The only configured remote is `https://github.com/Ifem1/sesmo.git`; the intended branch is `main`.
+The only configured remote is `https://github.com/Dark-Brain07/Sesmo.git`; the intended branch is `main`.

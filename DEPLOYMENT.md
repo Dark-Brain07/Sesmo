@@ -55,4 +55,4 @@ Transactions sent zero GEN application value. The stable RPC returned `eth_gasPr
 
 ## GitHub
 
-Final repository target: `https://github.com/Ifem1/sesmo.git`, branch `main`. No other remote is authorized or configured.
+Final repository target: `https://github.com/Dark-Brain07/Sesmo.git`, branch `main`. No other remote is authorized or configured.

@@ -6,7 +6,7 @@ SESMO lets a cooperating Intelligent Contract create **provisional state now**, 
 
 It is intentionally a **standalone contract primitive with no frontend**.
 
-Target repository: `Ifem1/sesmo`
+Target repository: `Dark-Brain07/Sesmo`
 Target network: **GenLayer Studionet, chain ID 61999**
 RPC: `https://studio.genlayer.com/api`
 
