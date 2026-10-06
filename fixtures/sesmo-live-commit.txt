@@ -1,0 +1,6 @@
+SESMO public semantic test fixture
+Fixture ID: SESMO-LIVE-COMMIT-2026-09-27
+Status: ACTIVE
+Postcondition: service order SESMO-LIVE-COMMIT-2026-09-27 is active and available for use.
+Interpretation: the frozen activation postcondition is SATISFIED.
+This is a disclosed synthetic fixture for testing the SESMO protocol. It makes no claim about a real customer or external service.
