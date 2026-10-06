@@ -328,8 +328,8 @@ Local verification: `scripts/preflight.py` and `scripts/source_manifest.py` pass
 See [DEPLOYMENT.md](DEPLOYMENT.md) for addresses, finalized transaction hashes, source hashes, lifecycle read-backs, network confirmation, fee observations and the source commit. Re-run `python scripts/check_network.py` before every live deployment or test phase; it refuses to proceed unless the canonical RPC reports chain ID `61999`.
 
 ### Deployed Addresses (GenLayer Studionet)
-- **SESMO**: `0xE11a1E08232d940b141CeC240a77AC6f6F73Da44`
-- **ExampleSesmoedGrant**: `0x996a8D081EF5842335915CF0b63Ea24Ab968d375`
+- **SESMO**: [`0xE11a1E08232d940b141CeC240a77AC6f6F73Da44`](https://explorer-studio.genlayer.com/address/0xE11a1E08232d940b141CeC240a77AC6f6F73Da44)
+- **ExampleSesmoedGrant**: [`0x996a8D081EF5842335915CF0b63Ea24Ab968d375`](https://explorer-studio.genlayer.com/address/0x996a8D081EF5842335915CF0b63Ea24Ab968d375)
 ## Submission category
 
 This is intended for **Intelligent Contracts**, not Projects:
